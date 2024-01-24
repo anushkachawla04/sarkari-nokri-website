@@ -1,0 +1,118 @@
+header{
+    height: 170px;
+    width: 80%;
+    background-color: #AB163D;
+    margin-left: 100px;
+}
+header img{
+    margin-top: 13px;
+    margin-left: 12px;
+}
+header h1{
+    height: 100px;
+    /* width: 690px; */
+    /* border: 1px solid black; */
+    margin-left: 400px;
+    margin-top: -130px;
+    color: white;
+    font-size: 43px;
+    font-weight: 900;
+}
+h2{
+    height: 80px;
+    width:400px ;
+    /* border: 2px solid black; */
+    margin-left: 400px;
+    margin-top: -70px;
+    color: white;
+    font-size:25px;
+}
+     .D1{
+    height: 50px;
+    width: 80%;
+    border: 2px solid black;
+    margin-left: 98px;
+    background-color: black;
+}
+.D1 ul {
+    list-style: none;
+    display: flex;
+    /* border-right: 2px solid white; */
+}
+.D1 ul li{
+    margin-left: 60px;
+    color: white;
+    border-right: 1px solid white;
+    
+}
+h3{
+    margin-left: 180px;
+    font-weight: 900;
+    font-size:23px;
+}
+h4{
+    color:red;
+    margin-left: 360px;
+}
+.D2{
+    height: 50px;
+    width: 42%;
+    /* border: 1px solid black; */
+    margin-left: 370px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.main2{
+    height: 200px;
+    width: 80%;
+    /* border: 2px solid black; */
+    margin-top: 80px;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    
+}
+.div8{
+    height: 72px;
+    width: 22%;
+    background-color: yellowgreen;
+    margin-left: 15px;
+    /* border: 1px solid black; */
+    
+}
+
+#c1{
+    background-color: yellowgreen;
+    font-size: 30px;
+}
+#c2{
+    background-color: blue;
+    font-size: 25px;
+}
+#c3{
+    background-color: orangered;
+    font-size:22px ;
+}
+#c4{
+    background-color: #AB163D;
+    font-size:22px ;
+}
+#c5{
+    background-color:orangered;
+    font-size:22px ;
+}
+#c6{
+    background-color: green;
+    font-size:22px ;
+}
+#c7{
+    background-color: rgb(233, 35, 154);
+    font-size:20px ;
+}
+#c8{
+    background-color: rgb(164, 164, 251);
+    font-size:22px ;
+}
+
